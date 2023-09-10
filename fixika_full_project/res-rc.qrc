@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>apartment_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>warning_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/add_circle_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/calendar.svg</file>
+    <file>icons/calendars.svg</file>
+    <file>icons/cancel_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/close_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/group_add_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/help.svg</file>
+    <file>icons/help2.svg</file>
+    <file>icons/home_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/logout_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/menu_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/monitoring.svg</file>
+    <file>icons/oil.svg</file>
+    <file>icons/publick_off.svg</file>
+    <file>icons/quiz.svg</file>
+    <file>icons/search_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/settings_FILL0_wght400_GRAD0_opsz48.svg</file>
+    <file>icons/support-agent.svg</file>
+  </qresource>
+</RCC>
